@@ -1,0 +1,6 @@
+db.sqlite3
+sqlite-jdbc-3.44.1.0.jar
+human_resources/__pycache__
+hr_api/__pycache__
+hr_api/migrations
+gitignore
